@@ -108,4 +108,4 @@ The model is implemented from scratch in PyTorch, without relying on torchvision
 
 ---
 
-THE FULL PAPER : 
+THE FULL PAPER : https://medium.com/@amirhoseinparsa1234/resnext-50-a-deep-dive-into-aggregated-residual-transformations-model-structure-33f7b6080985?postPublishedType=repub
